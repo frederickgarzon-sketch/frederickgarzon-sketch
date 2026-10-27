@@ -18,6 +18,10 @@ I build practical business applications and connect software, hardware, and netw
 <br>
 <img src="https://skillicons.dev/icons?i=python,opencv,raspberrypi,ps,pr,ae&perline=6" alt="Python, OpenCV, Raspberry Pi, Photoshop, Premiere Pro, After Effects" />
 
+<br><br>
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+<img src="https://img.shields.io/badge/RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik RouterOS" />
+
 </div>
 
 ## 🛠️ Skills & Services
