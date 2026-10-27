@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Frederick “Freddie” Garzon
+#  Frederick “Fred” Garzon
 
 **Full Stack Systems Developer · IT Solutions Specialist**
 
