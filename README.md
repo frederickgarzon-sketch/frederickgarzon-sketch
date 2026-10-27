@@ -22,6 +22,13 @@ I build practical business applications and connect software, hardware, and netw
 <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
 <img src="https://img.shields.io/badge/RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik RouterOS" />
 
+<br>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+
 </div>
 
 ## 🛠️ Skills & Services
@@ -36,9 +43,9 @@ I build practical business applications and connect software, hardware, and netw
 <tr><td>🛒 <b>Web & E commerce</b></td><td>WordPress · WooCommerce · Elementor · Shopify · GoHighLevel · Custom Business Applications · Maintenance · Payment, Inventory & Order Integrations</td></tr>
 <tr><td>🔧 <b>Computer & Hardware</b></td><td>Desktop & Laptop Repair · Computer Sales · PC Assembly & Upgrades · Windows Installation & Configuration · SSD, HDD & RAM Diagnostics · Printer Troubleshooting · Maintenance</td></tr>
 <tr><td>🎧 <b>Technical Support</b></td><td>Onsite & Remote Support · Software Installation · System Configuration · Hardware & Software Troubleshooting</td></tr>
-<tr><td>🌐 <b>Networking</b></td><td>LAN & WiFi · Routers · Switches · Access Points · MikroTik & RouterOS · Hotspot & Vouchers · IP Addressing · Subnetting · DHCP · Gateways · DNS · Firewall Rules · Guest Network Separation</td></tr>
+<tr><td>🌐 <b>Networking</b></td><td>LAN & WiFi · Routers · Switches · Access Points · MikroTik & RouterOS · pfSense · Hotspot & Vouchers · IP Addressing · Subnetting · DHCP · Gateways · DNS · Firewall Rules · Guest Network Separation</td></tr>
 <tr><td>📡 <b>Connectivity</b></td><td>Network Diagnostics · Networked POS Deployment · VPN Workflows · Remote Access · Cloudflare Tunnel · Starlink Troubleshooting · Raspberry Pi Networking</td></tr>
-<tr><td>☁️ <b>Servers & Deployment</b></td><td>Linux & Ubuntu · Contabo VPS · CyberPanel · SSH & Terminal · Laravel Deployment · PHP Configuration · Cloud Hosting · Domains & Subdomains · DNS · SSL & HTTPS · Application Performance Testing</td></tr>
+<tr><td>☁️ <b>Servers & Deployment</b></td><td>Proxmox · Linux & Ubuntu · Contabo VPS · CyberPanel · SSH & Terminal · Laravel Deployment · PHP Configuration · Cloud Hosting · Domains & Subdomains · DNS · SSL & HTTPS · Application Performance Testing</td></tr>
 <tr><td>⚙️ <b>Development Tools</b></td><td>Git · GitHub · VS Code · PowerShell · Inno Setup</td></tr>
 <tr><td>🤖 <b>AI Assisted Development</b></td><td>OpenAI Codex · Claude · Cursor · Continue · Roo Code · Cline · Prompt Engineering · Debugging · Refactoring · Implementation</td></tr>
 <tr><td>🎬 <b>Multimedia</b></td><td>CapCut · Adobe Premiere Pro · After Effects · Photoshop · FaceFusion · ElevenLabs · Lalal.ai · AI Video Editing · Audio & Voice Workflows · Multimedia Automation</td></tr>
