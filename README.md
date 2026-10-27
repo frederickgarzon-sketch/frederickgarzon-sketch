@@ -1,94 +1,78 @@
 <div align="center">
 
-# Freddie Garzon
+# 👋 Frederick “Freddie” Garzon
 
-**Full-Stack Developer · Software Systems Builder · IT Solutions Specialist**
+**Full Stack Systems Developer · IT Solutions Specialist**
 
-From business workflows to applications, devices, and the networks connecting them.
+🏢 Freecom I.T Solution &nbsp; 🌏 Philippines
 
-Philippines · Freecom IT Solution
+I build practical business applications and connect software, hardware, and networks.
 
-[Connect with Freecom](https://www.facebook.com/Freecom2022) · [Explore my repositories](https://github.com/frederickgarzon-sketch?tab=repositories)
+[🤝 Connect with Freecom](https://www.facebook.com/Freecom2022) &nbsp; · &nbsp; [💻 Explore my work](https://github.com/frederickgarzon-sketch?tab=repositories)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,flutter,dart,mysql,sqlite,postgres&perline=10" alt="PHP, Laravel, JavaScript, HTML, CSS, Flutter, Dart, MySQL, SQLite, PostgreSQL" />
+<br>
+<img src="https://skillicons.dev/icons?i=wordpress,linux,ubuntu,cloudflare,git,github,powershell,vscode&perline=8" alt="WordPress, Linux, Ubuntu, Cloudflare, Git, GitHub, PowerShell, VS Code" />
+<br>
+<img src="https://skillicons.dev/icons?i=python,opencv,raspberrypi,ps,pr,ae&perline=6" alt="Python, OpenCV, Raspberry Pi, Photoshop, Premiere Pro, After Effects" />
 
 </div>
 
----
+## 🛠️ Skills & Services
 
-## I build systems that work together
+<table>
+<tr><th align="left">Area</th><th align="left">Technologies & Capabilities</th></tr>
+<tr><td>💻 <b>Web & Backend</b></td><td>PHP · Laravel · HTML · CSS · JavaScript · REST APIs · Authentication & Permissions · Admin Dashboards · Responsive Websites</td></tr>
+<tr><td>📱 <b>Mobile & Desktop</b></td><td>Flutter · Dart · Android & Windows Applications · Offline Workflows · Local Network Integration</td></tr>
+<tr><td>🗄️ <b>Databases</b></td><td>MySQL · SQLite · PostgreSQL · Database Management</td></tr>
+<tr><td>🧾 <b>Business Systems</b></td><td>POS · Inventory · Sales & Reporting · Customer Records · Credit Tracking · Retail & Wholesale Workflows · Restaurant POS · Kitchen Display Systems · Business Automation</td></tr>
+<tr><td>🖨️ <b>Device Integration</b></td><td>Receipt & Thermal Printers · POS Peripherals · Networked Devices · MikroTik Voucher Integration</td></tr>
+<tr><td>🛒 <b>Web & E commerce</b></td><td>WordPress · WooCommerce · Elementor · Shopify · GoHighLevel · Custom Business Applications · Maintenance · Payment, Inventory & Order Integrations</td></tr>
+<tr><td>🔧 <b>Computer & Hardware</b></td><td>Desktop & Laptop Repair · Computer Sales · PC Assembly & Upgrades · Windows Installation & Configuration · SSD, HDD & RAM Diagnostics · Printer Troubleshooting · Maintenance</td></tr>
+<tr><td>🎧 <b>Technical Support</b></td><td>Onsite & Remote Support · Software Installation · System Configuration · Hardware & Software Troubleshooting</td></tr>
+<tr><td>🌐 <b>Networking</b></td><td>LAN & WiFi · Routers · Switches · Access Points · MikroTik & RouterOS · Hotspot & Vouchers · IP Addressing · Subnetting · DHCP · Gateways · DNS · Firewall Rules · Guest Network Separation</td></tr>
+<tr><td>📡 <b>Connectivity</b></td><td>Network Diagnostics · Networked POS Deployment · VPN Workflows · Remote Access · Cloudflare Tunnel · Starlink Troubleshooting · Raspberry Pi Networking</td></tr>
+<tr><td>☁️ <b>Servers & Deployment</b></td><td>Linux & Ubuntu · Contabo VPS · CyberPanel · SSH & Terminal · Laravel Deployment · PHP Configuration · Cloud Hosting · Domains & Subdomains · DNS · SSL & HTTPS · Application Performance Testing</td></tr>
+<tr><td>⚙️ <b>Development Tools</b></td><td>Git · GitHub · VS Code · PowerShell · Inno Setup</td></tr>
+<tr><td>🤖 <b>AI Assisted Development</b></td><td>OpenAI Codex · Claude · Cursor · Continue · Roo Code · Cline · Prompt Engineering · Debugging · Refactoring · Implementation</td></tr>
+<tr><td>🎬 <b>Multimedia</b></td><td>CapCut · Adobe Premiere Pro · After Effects · Photoshop · FaceFusion · ElevenLabs · Lalal.ai · AI Video Editing · Audio & Voice Workflows · Multimedia Automation</td></tr>
+</table>
 
-I'm Frederick “Freddie” Garzon. I build practical software across frontend interfaces, backend APIs, databases, mobile and desktop applications, hardware, and deployment infrastructure. My focus is the whole workflow: how people use the system, how data moves, and how devices stay connected.
+## 🧪 Prototypes & Exploration
 
-My work brings together full-stack development, business automation, AI-assisted development, and hands-on IT solutions.
+🐍 Python &nbsp; · &nbsp; 👁️ OpenCV & MediaPipe &nbsp; · &nbsp; 🍓 Raspberry Pi
 
-## Featured engineering work
+Camera Integration · Behavioral Tracking · Dataset Preparation & Evaluation · RFID Timing · Model & API Integration · Ollama & Local LLMs · Cloud POS & Multi Branch Concepts · Basic CCTV Infrastructure Planning
 
-### Freecom POS — business operations, locally
+## 🚀 Selected Work
 
-A Flutter and SQLite point-of-sale application for Android and Windows workflows, with checkout, inventory, customer records, reporting, and device integration in the source code.
+**🧾 Freecom POS**  
+Flutter and SQLite application for Android and Windows, covering sales, inventory, customer records, reporting, offline workflows, and printer integration. Active development with MikroTik voucher integration; hardware acceptance testing remains pending. The current edition operates locally, with cloud authentication and synchronization disabled.
 
-**Engineering focus:** local persistence, Provider/ChangeNotifier state management, repositories and services, receipt/thermal printing, local-network workflows, and MikroTik voucher integration.
+[🔒 Application repository](https://github.com/frederickgarzon-sketch/flutter_app) &nbsp; · &nbsp; [🔒 Deployment repository](https://github.com/frederickgarzon-sketch/freecom-pos-deployment)  
+<sub>Private repositories · Access for authorized collaborators</sub>
 
-**Status:** active development. The current edition is explicitly local-only; API/sync code exists but cloud authentication and synchronization are disabled. WiFi Voucher Phase 1 is described as code-complete in the project handoff, with live hardware and end-to-end acceptance checks still pending. This is not a claim of production certification.
+<br>
 
-[Application repository — private access](https://github.com/frederickgarzon-sketch/flutter_app) · [Deployment repository — private access](https://github.com/frederickgarzon-sketch/freecom-pos-deployment)
+**🍓 Raspberry Pi Behavioral Screening Prototype**  
+Experimental camera and software integration for tracking, calibration, network configuration, testing, and teacher facing workflows.
 
-These links are for authorized collaborators. Source and deployment details remain private.
+<br>
 
-## Full-stack systems & business applications
+**🛒 Websites & Business Applications**  
+Business websites, WooCommerce stores, and custom application workflows.
 
-I work with Laravel/PHP, REST APIs, authentication and permissions, admin panels, dashboards, and business reporting. On the application side, I use Flutter/Dart for mobile and desktop workflows, with an interest in offline operation, synchronization, and multi-device systems.
+<br>
 
-The Freecom POS repositories currently provide the strongest code evidence on this account. Broader business-system experience below is based on my professional inventory; separate public examples are not yet available here.
+**🔧 Freecom I.T Solution**  
+Computer repair, hardware sales and upgrades, technical support, networking, and POS implementation.
 
-## Technology map
+## 💡 How I Work
 
-| Area | Tools and technologies |
-| :--- | :--- |
-| Backend & web | Laravel, PHP, REST APIs, HTML, CSS, JavaScript |
-| Applications & data | Flutter, Dart, SQLite, MySQL, PostgreSQL |
-| E-commerce & CMS | WordPress, WooCommerce, Shopify, Elementor |
-| AI, vision & hardware experiments | Python, OpenCV, MediaPipe, Raspberry Pi, RFID |
-| Deployment & networking | Git/GitHub, PowerShell, Inno Setup, MikroTik/RouterOS, Linux VPS, CyberPanel, DNS/SSL |
-| Development & creative workflows | Codex, Claude, CapCut, Premiere Pro, Photoshop, After Effects |
+Practical problem solving · Useful business systems · Reliable deployment · Hardware and software integration
 
-This is a map of my experience and exploration, not a claim that every technology has a public implementation here. Flutter/Dart, SQLite, printing, PowerShell/Inno Setup, and MikroTik deployment are evidenced by the audited repositories.
+## 🤝 Let's Connect
 
-## Networking & infrastructure
-
-I connect applications with the infrastructure they depend on: POS devices, local servers, printers, routers, access points, and edge devices.
-
-**Repository-backed work:** MikroTik router and Hotspot configuration templates, trusted/guest network separation, IPv4 addressing, DHCP/static addressing, DNS, firewall access rules, AP bridge deployment, and POS-to-router communication. These templates still require validation on their target hardware.
-
-**Broader practical experience:** LAN and Wi-Fi setup, subnetting and gateways, connectivity diagnostics, multi-device deployments, network peripherals, VPS connectivity, domain/DNS/SSL configuration, remote access and VPN workflows, Cloudflare Tunnel, Starlink troubleshooting, and Raspberry Pi networking. These areas are part of my supplied experience inventory; dedicated demonstrations have not yet been audited on this account.
-
-Public networking examples should use sanitized lab diagrams, placeholder credentials, and reproducible diagnostics. Security experiments belong in authorized labs and focus on defensive configuration and troubleshooting.
-
-## AI, computer vision & hardware experiments
-
-I use Codex and Claude to support coding, investigation, and automation. My experimental interests include model/API integration, dataset preparation and evaluation, OpenCV/MediaPipe tracking, Raspberry Pi edge processing, and RFID timing with offline collection and results dashboards.
-
-These are experience and prototype areas, not claims of original AI research or foundation-model training. Camera-based behavioral or educational screening work is prototype/screening support, not a medical diagnostic system. Dedicated project repositories are not yet featured here.
-
-## WordPress, WooCommerce & e-commerce
-
-My CMS and store work includes WordPress, WooCommerce, Shopify, and Elementor: customization, maintenance, troubleshooting, performance work, and payment/inventory/order integrations. Public case studies will be added only when ownership and client permission allow them.
-
-## Infrastructure, deployment & collaboration
-
-I work across Linux VPS environments, including Contabo and CyberPanel, application deployment, dependencies, environment configuration, hosting, DNS, and SSL. The deployment repository demonstrates Windows packaging and router/portal configuration work; it does not establish a complete automated deployment pipeline.
-
-I keep documentation close to the work and use Git/GitHub for reviewable changes. This account does not yet provide evidence of external open-source contributions; I will link them when available.
-
-## Creative technology
-
-AI-assisted video editing, audio/voice workflows, and multimedia automation complement my software work. CapCut, Premiere Pro, Photoshop, and After Effects support content and production workflows rather than replacing the engineering focus of this profile.
-
----
-
-## Activity & contact
-
-Use the native GitHub contribution graph below and repository commit histories for current activity. I avoid third-party streak cards and inferred performance metrics.
-
-For project conversations, [connect with Freecom IT Solution on Facebook](https://www.facebook.com/Freecom2022).
-
-**Applications · APIs · Business workflows · Devices · Networks · Deployment**
+For projects, collaborations, and IT services, reach [**Freecom I.T Solution on Facebook**](https://www.facebook.com/Freecom2022).
