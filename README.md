@@ -29,13 +29,20 @@ I build practical business applications and connect software, hardware, and netw
 <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
+
+<br><br>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" />
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+<img src="https://img.shields.io/badge/ComfyUI-202020?style=for-the-badge&logo=comfyui&logoColor=white" alt="ComfyUI" />
+
 </div>
 
 ## 🛠️ Skills & Services
 
 <table>
 <tr><th align="left">Area</th><th align="left">Technologies & Capabilities</th></tr>
-<tr><td>💻 <b>Web & Backend</b></td><td>PHP · Laravel · HTML · CSS · JavaScript · REST APIs · Authentication & Permissions · Admin Dashboards · Responsive Websites</td></tr>
+<tr><td>💻 <b>Web & Backend</b></td><td>PHP · Laravel · HTML · CSS · JavaScript · Python · REST APIs · OAuth & Authentication · Permissions · Admin Dashboards · Responsive Websites</td></tr>
 <tr><td>📱 <b>Mobile & Desktop</b></td><td>Flutter · Dart · Android & Windows Applications · Offline Workflows · Local Network Integration</td></tr>
 <tr><td>🗄️ <b>Databases</b></td><td>MySQL · SQLite · PostgreSQL · Database Management</td></tr>
 <tr><td>🧾 <b>Business Systems</b></td><td>POS · Inventory · Sales & Reporting · Customer Records · Credit Tracking · Retail & Wholesale Workflows · Restaurant POS · Kitchen Display Systems · Business Automation</td></tr>
@@ -48,6 +55,8 @@ I build practical business applications and connect software, hardware, and netw
 <tr><td>☁️ <b>Servers & Deployment</b></td><td>Proxmox · Linux & Ubuntu · Contabo VPS · CyberPanel · SSH & Terminal · Laravel Deployment · PHP Configuration · Cloud Hosting · Domains & Subdomains · DNS · SSL & HTTPS · Application Performance Testing</td></tr>
 <tr><td>⚙️ <b>Development Tools</b></td><td>Git · GitHub · VS Code · PowerShell · Inno Setup</td></tr>
 <tr><td>🤖 <b>AI Assisted Development</b></td><td>OpenAI Codex · Claude · Cursor · Continue · Roo Code · Cline · Prompt Engineering · Debugging · Refactoring · Implementation</td></tr>
+<tr><td>🔄 <b>Automation & Integrations</b></td><td>n8n · Make.com · Zapier · Webhooks · REST API Integration · OAuth & Authentication · AI Integrated Workflows · Business Process Automation</td></tr>
+<tr><td>🎨 <b>AI Creative Workflows</b></td><td>ComfyUI · Node Based Workflows · AI Image & Video Workflows · Creative Automation</td></tr>
 <tr><td>🎬 <b>Multimedia</b></td><td>CapCut · Adobe Premiere Pro · After Effects · Photoshop · FaceFusion · ElevenLabs · Lalal.ai · AI Video Editing · Audio & Voice Workflows · Multimedia Automation</td></tr>
 </table>
 
